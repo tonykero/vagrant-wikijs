@@ -1,0 +1,7 @@
+.vagrant/
+*.log
+
+data/cache/
+data/temp-upload/
+data/thumbs/
+repo/uploads/
